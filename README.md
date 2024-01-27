@@ -113,10 +113,6 @@ Understanding these concepts is essential for effective use of inheritance and p
             forklift.RaiseForkLift();
 		```
 
-**Extra Practice and Extra Credit :**
-	- Build the Account, BankAccount, and Checking Account class from the last quarter of the lecture
-	- Test the code
-
 ---
 ## Class Diagrams
 
@@ -203,5 +199,4 @@ This diagram shows how each class inherits from `Vehicle` or its subclasses. The
 | Method Overrides      | Methods in derived classes correctly override the base class methods.  | 10     |
 | Method Functionality  | Methods provide the expected functionality, and outputs are correct.    | 10     |
 | Code Testing          | Instances of each class are created, and `Accelerate` methods are called for testing. | 5 |
-| Extra Credit (Optional) | Account, BankAccount, and CheckingAccount classes are implemented and tested. | 10 |
 | Total Points          |                                                                       | 100    |
